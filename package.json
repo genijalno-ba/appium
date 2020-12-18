@@ -41,6 +41,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.6.0",
+    "appium-adb": "git+https://github.com/genijalno-ba/appium-adb.git",
     "appium-android-driver": "^4.20.0",
     "appium-base-driver": "^7.0.0",
     "appium-espresso-driver": "^1.0.0",
